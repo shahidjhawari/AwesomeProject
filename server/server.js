@@ -6,7 +6,7 @@ const app = express();
 
 //route
 app.get("/", (req, res) => {
-  return res.status(200).send("<h1>Welcome To Node server </h1>");
+  return res.status(200).send("<h1>Welcome To Ngfdode server </h1>");
 });
 
 //port
