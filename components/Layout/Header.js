@@ -45,9 +45,9 @@ const styles = StyleSheet.create({
   },
   inputBox: {
     borderWidth: 0.3,
-    width: "95%",
+    width: "100%",
     position: "absolute",
-    left: 10,
+    left: 15,
     height: 40,
     color: "#000000",
     backgroundColor: "#ffffff",
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
   },
   searchBtn: {
     position: "absolute",
-    left: "90%",
+    left: "95%",
   },
   icon: {
     color: "#000000",
